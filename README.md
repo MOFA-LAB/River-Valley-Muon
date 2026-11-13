@@ -56,7 +56,7 @@ The camera-ready paper contains the complete derivations, assumptions, and exper
 
 ## Acknowledgments
 - Thanks to [epfml/schedules-and-scaling](https://github.com/epfml/schedules-and-scaling) and [karpathy/nanochat](https://github.com/karpathy/nanochat) for providing the foundational code framework.
-- Thanks to [Tongle Wu](https://orcid.org/0000-0001-7713-5622), a Ph.D. candidate at The Pennsylvania State University, University Park, for his insightful discussions and guidance during the early stage of this project.
+- Thanks to [Tongle Wu](https://ieeexplore.ieee.org/author/37088430714), a Ph.D. candidate at The Pennsylvania State University, University Park, for his insightful discussions and guidance during the early stage of this project.
 - Thanks to Tianqi’s girlfriend, [Lu Huang](http://www.dongsuweigroup.com/Members), a PhD candidate at Peking University, for her help in creating the nice figures in the paper.
 - Thanks to the NeurIPS 2026 reviewers WXY1, 4fFA, and z1oq, as well as Area Chair 6sj4, for their valuable feedback.
 
